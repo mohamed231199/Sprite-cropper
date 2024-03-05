@@ -1,0 +1,2 @@
+# Sprite-cropper
+Sprite cropper
